@@ -1,0 +1,20 @@
+.left-menu {
+    background-color: aqua;
+    height: 100vh;
+    width: 20vw;
+}
+
+.logo {
+    background-color: brown;
+}
+ 
+.menu-item {
+    padding: 1vw;
+    background-color: chartreuse;
+    text-align: center;
+}
+
+.connection {
+    display: flex;
+    justify-content: space-evenly;
+}
